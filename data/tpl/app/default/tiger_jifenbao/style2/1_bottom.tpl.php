@@ -1,0 +1,2 @@
+<?php defined('IN_IA') or exit('Access Denied');?><p class="c-gray-dark font-size-12" style="line-height: 150%; text-align: center;">技术支持：<?php  if($cfg['copyright']<>'') { ?><?php  echo $cfg['copyright'];?> <?php  } else { ?><?php  echo $_W['account']['name'];?><?php  } ?><br></b>
+<?php (!empty($this) && $this instanceof WeModuleSite) ? (include $this->template($mbstyle.'/share', TEMPLATE_INCLUDEPATH)) : (include template($mbstyle.'/share', TEMPLATE_INCLUDEPATH));?>

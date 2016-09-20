@@ -1,0 +1,662 @@
+2016-09-19 14:07:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265225</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 14:07:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265235</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 14:08:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265289</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 14:08:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:08:10 response :
+------------
+
+2016-09-19 14:08:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265294</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 14:08:15 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 14:08:15 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwGh1jJYRFIc6bjhKITZZhP0 ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 14:08:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265300</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 14:08:20 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:08:20 response :
+------------
+
+2016-09-19 14:08:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265311</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=2]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 14:08:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:08:31 response :
+------------
+
+2016-09-19 14:08:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265315</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 14:08:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:08:35 response :
+------------
+
+2016-09-19 14:09:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474265347</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[噜噜]]></EventKey>
+</xml>
+
+2016-09-19 14:09:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:09:07 response :
+------------
+
+2016-09-19 14:09:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474265376</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 14:09:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474265396</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 14:09:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:09:56 response :
+------------
+
+2016-09-19 14:10:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474265402</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 14:10:03 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 14:10:03 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwLmECNFGgtIWZ71PdPFiJ9I ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 14:14:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265663</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 14:14:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 14:14:23 response :
+------------
+
+2016-09-19 14:17:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474265830</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 14:17:10 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 14:17:10 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwGh1jJYRFIc6bjhKITZZhP0 ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 15:16:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474269405</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 15:16:46 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 15:16:46 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwLmECNFGgtIWZ71PdPFiJ9I ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 15:33:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLQgsVSHrm2WoOrLSesIwIA]]></FromUserName>
+<CreateTime>1474270397</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 16:54:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474275274</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 16:54:35 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 16:54:35 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwLmECNFGgtIWZ71PdPFiJ9I ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 16:54:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474275279</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=2]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 16:54:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 16:54:39 response :
+------------
+
+2016-09-19 16:54:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474275285</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 16:54:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 16:54:45 response :
+------------
+
+2016-09-19 17:45:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwDFC9JKIF-M0gj1iCgBdepw]]></FromUserName>
+<CreateTime>1474278354</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 17:45:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 17:45:55 response :
+------------
+
+2016-09-19 21:06:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwIz68v_mxQ-6nw07guUQBWE]]></FromUserName>
+<CreateTime>1474290374</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 21:06:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 21:06:14 response :
+------------
+
+2016-09-19 21:23:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwBapFIiBrISTHsEh3Li_zos]]></FromUserName>
+<CreateTime>1474291422</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 21:28:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwDhY6qR2hr3bbD3WUP4g0sQ]]></FromUserName>
+<CreateTime>1474291687</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 21:28:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 21:28:07 response :
+------------
+
+2016-09-19 21:28:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwDhY6qR2hr3bbD3WUP4g0sQ]]></FromUserName>
+<CreateTime>1474291695</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 21:28:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 21:28:15 response :
+------------
+
+2016-09-19 21:28:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwDhY6qR2hr3bbD3WUP4g0sQ]]></FromUserName>
+<CreateTime>1474291724</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=2]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 21:28:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 21:28:44 response :
+------------
+
+2016-09-19 23:07:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474297622</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 23:07:03 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 23:07:03 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwGh1jJYRFIc6bjhKITZZhP0 ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-19 23:07:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474297629</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=3]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 23:07:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 23:07:09 response :
+------------
+
+2016-09-19 23:07:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474297643</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=2]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 23:07:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 23:07:23 response :
+------------
+
+2016-09-19 23:07:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwGh1jJYRFIc6bjhKITZZhP0]]></FromUserName>
+<CreateTime>1474297645</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://wechat.mofangvr.com/app/index.php?i=1&c=entry&eid=2]]></EventKey>
+<MenuId>427414672</MenuId>
+</xml>
+
+2016-09-19 23:07:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 23:07:25 response :
+------------
+
+2016-09-19 23:11:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwP4Jk_Weiq72MW4-NfzYs6E]]></FromUserName>
+<CreateTime>1474297885</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 23:11:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwP4Jk_Weiq72MW4-NfzYs6E]]></FromUserName>
+<CreateTime>1474297891</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 23:11:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwP4Jk_Weiq72MW4-NfzYs6E]]></FromUserName>
+<CreateTime>1474297915</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-19 23:11:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-19 23:11:56 response :
+------------
+
+2016-09-19 23:11:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwP4Jk_Weiq72MW4-NfzYs6E]]></FromUserName>
+<CreateTime>1474297919</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-19 23:11:59 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-19 23:11:59 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwP4Jk_Weiq72MW4-NfzYs6E ;
+MsgType : image ;
+Image : Array ;
+

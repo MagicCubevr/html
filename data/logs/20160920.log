@@ -1,0 +1,77 @@
+2016-09-20 02:16:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwBR4mIlTnRL13zeNI_M2Lug]]></FromUserName>
+<CreateTime>1474308985</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-09-20 02:16:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-09-20 02:16:25 response :
+------------
+
+2016-09-20 09:51:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474336278</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[222]]></EventKey>
+</xml>
+
+2016-09-20 09:51:18 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-20 09:51:18 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwLmECNFGgtIWZ71PdPFiJ9I ;
+MsgType : image ;
+Image : Array ;
+
+2016-09-20 09:52:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c4e72bf58eb2]]></ToUserName>
+<FromUserName><![CDATA[ouniLwLmECNFGgtIWZ71PdPFiJ9I]]></FromUserName>
+<CreateTime>1474336325</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[222]]></Content>
+<MsgId>6332226299607273229</MsgId>
+</xml>
+
+2016-09-20 09:52:10 params :
+------------
+Array:
+message : Array ;
+module : tiger_jifenbao ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-09-20 09:52:10 response :
+------------
+Array:
+FromUserName : gh_c4e72bf58eb2 ;
+ToUserName : ouniLwLmECNFGgtIWZ71PdPFiJ9I ;
+MsgType : image ;
+Image : Array ;
+
